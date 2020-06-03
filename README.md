@@ -16,3 +16,7 @@ You can view your income, expenses and balance. Currently this application is un
 
 7. On the dashboard, you can view your balance, total income , total expense and the total expense percentage as well as the current month 
 and the current year.
+
+
+
+8. For instance the code is written in ES 5 version of JavaScript
